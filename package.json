@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ https://tianawiggins43311.github.io/FriendFinder/"
+    "url": "git+https://github.com/TianaW43311/FriendFinder.git"
   },
   "keywords": [
     "survey"
@@ -16,11 +16,11 @@
   "author": "Tiana Wiggins",
   "license": "ISC",
   "bugs": {
-    "url": "https://tianawiggins43311.github.io/FriendFinder/"
+    "url": "https://github.com/TianaW43311/FriendFinder/issues"
   },
-  "homepage": "https://tianawiggins43311.github.io/FriendFinder/",
+  "homepage": "https://github.com/TianaW43311/FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
-  }
+ }
 }
