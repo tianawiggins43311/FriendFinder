@@ -2,13 +2,13 @@
   "name": "friendfinder",
   "version": "1.0.0",
   "description": "A survey to find compatibility between people",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TianaW43311/FriendFinder.git"
+    "url": "git+ https://tianawiggins43311.github.io/FriendFinder/"
   },
   "keywords": [
     "survey"
@@ -16,9 +16,9 @@
   "author": "Tiana Wiggins",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TianaW43311/FriendFinder/issues"
+    "url": " https://tianawiggins43311.github.io/FriendFinder/"
   },
-  "homepage": "https://github.com/TianaW43311/FriendFinder#readme",
+  "homepage": " https://tianawiggins43311.github.io/FriendFinder/",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
