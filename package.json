@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TianaW43311/FriendFinder.git"
+    "url": "git+https://friendfindersurvey1.herokuapp.com/"
   },
   "keywords": [
     "survey"
@@ -16,9 +16,9 @@
   "author": "Tiana Wiggins",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TianaW43311/FriendFinder/issues"
+    "url": "https://friendfindersurvey1.herokuapp.com/"
   },
-  "homepage": "https://github.com/TianaW43311/FriendFinder#readme",
+  "homepage": "https://friendfindersurvey1.herokuapp.com/",
   "dependencies": {
     "body-parser": "^1.17.1",
     "express": "^4.15.2"
