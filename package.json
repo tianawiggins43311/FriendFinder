@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/TianaW43311/FriendFinder/issues"
   },
-  "homepage": "https://github.com/TianaW43311/FriendFinder#readme"
+  "homepage": "https://github.com/TianaW43311/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
 }
