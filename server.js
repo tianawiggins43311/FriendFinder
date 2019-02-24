@@ -16,6 +16,6 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 require("/Users/josephine-maye/Desktop/FriendFinder/app/routing/apiRoutes")(app);
 require("/Users/josephine-maye/Desktop/FriendFinder/app/routing/htmlRoutes")(app);
 
-app.listen(PORT, function() {
+app.listen(process.env.PORT, function() {
 	console.log("App listening on PORT: " + PORT);
 });

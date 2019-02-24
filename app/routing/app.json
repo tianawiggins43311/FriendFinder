@@ -1,0 +1,8 @@
+{
+    "name": "Friend Finder",
+    "description": "A survey on compatibility between users to become friends.",
+    "respository": "https://github.com/tianawiggins43311/FriendFinder",
+    "logo": "https://friendsfindersurvey1-demo.herokuapp.com/",
+    "keywords": "heroku, node.js, express",
+    "image": "heroku/node.js"
+}
